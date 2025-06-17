@@ -5,21 +5,36 @@
 </a> -->
 <h2 align="center">SherryCases</h2>
 <p align="center">
-An eCommerce project!
+eCommerce project!
 <br/>
 <br/>
 </div>
+<img src="public/screenshots/Hero.png" alt="HomePage">
 
-## About The Project
+## About
 
-This is a Next.js application that promotes a customizable phone case. The site provides full authentication, the ability to drag/drop images, Tailwind CSS styling, and a curated interface designed to convert viewers into customers.
+This is a website that advertises a customizable phone case. The site provides the ability to drag and drop a photo and customize your personalized iPhone case. The application is a stylized interface designed to convert viewers into customers.
+<br><br>
+**Features the two best looking members of the Sherry household.**
 
-### Built With
-
-This project was built with the following technologies:
+### Tech Stack
 
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Shadcn/ui](https://ui.shadcn.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com)
+
+### How to run
+
+Clone the repository and run the command `npm run dev`, then follow the link.
+
+### Screenshots
+
+<img src="public/screenshots/UploadNow.png" alt="UploadPhotoPic">
+<br>
+<img src="public/screenshots/UploadFunctionality.png" alt="DragDropPhoto" style="margin-top:10px">
+
+### To Do (WIP)
+
+<p>Database connection to store user credentials</p>
